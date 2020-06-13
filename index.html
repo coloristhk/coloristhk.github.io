@@ -286,7 +286,6 @@
 								</div>
 							</div>
 							<div class="col-lg-8 order-1 order-lg-2">
-								<div id="about-me-about" class="about-me-block about-me-about" data-title="about">
 						<p><h3>Shorts & Films</h3><br>2020<br><a href="https://www.youtube.com/watch?v=iGE52pUMA9Q">夢追岸上人, dir Samuel Pang</a>
 						<br><br>2019
 						<br>A Scarecrow(Short), dir: Rajesh Prasad KHATRI
@@ -312,7 +311,7 @@
 						<br><a href="https://www.youtube.com/watch?v=adqOkntwrvw&list=PLuwJy35eAVaKJzxrTpaNRz4K_muOoFmAI">歲月不忘情 - 花團錦簇, 紳士老爺, 過路人, 車廂中的時間總過得比較慢, 只有香如故</a>
 						<br><a href="https://www.youtube.com/watch?v=I4EuaV60wr4&list=PLuwJy35eAVaIXvX8azmanA3DYRAMVoQsI">手語隨想曲6</a>
 						<br><a href="https://www.youtube.com/watch?v=MbYAxFCWaZw&list=PLuwJy35eAVaKtnV8lfAnYWyIwlPi5plhY">忘憂理髮店</a></p>
-					</div>
+					
 							</div>
 						</div>
 					</div>
