@@ -88,8 +88,8 @@
 				<!-- Single Menu -->
 				<a href="#" data-hashlink-trigger="blogs-area" class="imgmenu2 imgmenu2-blog-trigger">
 					<div class="imgmenu-content">
-						<h4>03. Free Stuff</h4>
-						<h6>Get Free Training Resources</h6>
+						<h4>03. Blank</h4>
+						<h6>Empty page to reflect life</h6>
 					</div>
 					<div class="imgmenu2-letter">
 						<img src="images/letters/letter-b.png" alt="imgmenu letter">
@@ -369,54 +369,6 @@
 				<div class="blog-items-wrapper section-padding-bottom-lg">
 					<div class="container">
 						<div class="row blog-items-grid">
-
-							<!-- Blog Item -->
-							<div class="col-lg-6 col-12 blog-item-wrap video-blog">
-								<div class="blog-item blog-item-video-2">
-									<div class="plyr__video-embed youtube-video-player">
-										<iframe width="560" height="315" src="https://www.youtube.com/embed/iGE52pUMA9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-									</div>
-								</div>	
-							</div>
-							<!--// Blog Item -->
-							<!-- Blog Item -->
-							<div class="col-lg-6 col-12 blog-item-wrap video-blog">
-								<div class="blog-item blog-item-video">
-									<div class="blog-item-content">
-										<h6 class="blog-item-date"><span class="date">8</span> th <span class="month">June</span></h6>
-										<h4 class="blog-item-title"><a href="blog-details-dark.html">Just<br>a Test!</a></h4>
-										<div class="blog-item-share-wrap">
-											<div class="blog-item-share">
-												<button class="blog-item-share-toggle"><i class="ti ti-share"></i> Share</button>
-												<div class="social-links social-links-rounded-colored blog-item-social-links">
-													<ul>
-														<li class="dribbble"><a href="#"><i class="ti ti-facebook"></i></a></li>
-														<li class="linkedin"><a href="#"><i class="ti ti-linkedin"></i></a></li>
-														<li class="pinterest"><a href="#"><i class="ti ti-pinterest"></i></a></li>
-													</ul>
-												</div>
-											</div>
-										</div>
-										<a href="blog-details-dark.html" class="cr-readmore">Read More 
-											<span>
-												<img src="images/icons/readmore-arrow-white.png" alt="Readmore Arrow">
-												<img src="images/icons/readmore-arrow.png" alt="Readmore Arrow">
-											</span>
-										</a>
-									</div>
-									<div class="blog-item-thumb">
-										<a href="blog-details-dark.html">
-											<img src="images/blog/blog-thumb-5.jpg" alt="blog thumb">
-										</a>
-										<a href="#" class="cr-video-btn cr-video-btn-small video-play-trigger" data-video-id='YB4AvOsgL9o'>
-											<span>
-												<img src="images/icons/play-icon.png" alt="play icon">
-											</span>
-										</a>
-									</div>
-								</div>	
-							</div>
-							<!--// Blog Item -->
 						</div>
 					</div>	
 				</div>
