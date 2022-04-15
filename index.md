@@ -167,26 +167,23 @@
 					<div id="about-me-about" class="about-me-block about-me-about" data-title="about">
 						<h4>ABOUT ME</h4>
 						<h2>Hi, I'm Dennis</h2>
-						<p>I'm a colorist based in Hong Kong. I've been grading for almost 10 years now my passion for color doesn't seems to be 
-							 fading. I enjoy working with enthusiastic filmmakers. I've worked on numerous films, tv programs, 
-							 shorts, commercials and corporate videos. I define myself as an efficient and skillful colorist. I have a 
-							 youtube channel which I share some of my techniques I’ve developed over the years. I’m always finding new ways to 
-							 manipulate the image even further. Creating beauty even in the most mundane image.
+						<p>I am a colorist, video technician, DCP Mastering Technician
+						Working in film post production for more than a decade now, I have dealt with many different situations and 
+						have learnt to adapt in this ever changing industry. Currently a member at Best & Original Limited in Hong Kong.
+						<br><br>Here's <a href="https://hk.linkedin.com/in/dennis-cheng-a58a94224">my linkedin page</a>.
 						</p>
-						<p>Aside from being a colorist, I also offer film finishing services, ranging from subtitling, opening & roller credits,
-						to exporting all varieties of video formats and DCP packaging, etc. I’ve also stepped into the HDR game quite early. 
-						Since 2017, I’ve already done numerous HDR/Dolby Vision projects, many of which can now be seen in the Itunes store. 
-						Finally, I am a tutor that offers private color grading lessons as well.</p>
 					</div>
 					<!--// About Me About -->
 
 					<!-- About Me Mission -->
-					<div id="about-me-mission" class="about-me-block about-me-mission" data-title="Services">
-						<h4>Services</h4>
-						<h2>Wide Range of Post Production Services</h2>
-						<p>Color Grading<br>DCP Mastering (Unencrypted)<br>File Delivery<br>Subtitling<br>Opening and Roller Credits<br>
-						HDR Mastering (SDR to HDR Conversion or vice versa)<br>And many more...</p>
-						<p>For more information and quotation, please contact me via coloristhk@gmail.com
+					<div id="about-me-mission" class="about-me-block about-me-mission" data-title="skills">
+						<h4>Skills</h4>
+						<h2>Wide Range of Post Production Skills</h2>
+						<p>-SDR/HDR(Dolby Vision) Color Grading<br>-DCP Repacking / Authoring with subtitling & KDM encryption
+						<br>-Format Conversion (SDR to HDR / Dolby Vision upscaling, De-interlacing, (Artificial Intelligence) Up/Down Scaling, Pan and Scan)
+						<br>-Strong understandings of Dolby Vision for Home, HDR10, codecs, post production, color grading / color science knowledge
+						<br>-Workflow Consultance<br>-Color Grading Tutoring</p>
+						<p>For more information and quotation, please contact me via coloristhk@gmail.com or <a href="https://hk.linkedin.com/in/dennis-cheng-a58a94224"> linkedin (https://hk.linkedin.com/in/dennis-cheng-a58a94224)</a>.
 					</div>
 					<!--// About Me Mission -->
 
@@ -466,6 +463,17 @@
 				<div class="container">
 					<div class="contact-page-address">						
 						<div class="row section-padding-top-xs">
+						<div class="col-lg-4">
+								<div class="contact-page-address-single">
+									<span class="contact-page-address-icon bg-skyblue">
+										<img src="images/icons/contact-icon-house.png" alt="icon house">
+									</span>
+									<div class="contact-page-address-content">
+										<h6>Linkedin</h6>
+										<p><a href="https://hk.linkedin.com/in/dennis-cheng-a58a94224">Dennis Cheng<br></a></p>
+									</div>
+								</div>
+							</div>
 							<div class="col-lg-4">
 								<div class="contact-page-address-single">
 									<span class="contact-page-address-icon bg-yellow">
@@ -473,7 +481,7 @@
 									</span>
 									<div class="contact-page-address-content">
 										<h6>Tel/Whatsapp/TG</h6>
-										<p><a href="#">+(852) - 70714656</a></p>
+										<p>+(852) - 70714656</p>
 										<p><a href="https://t.me/coloristhk">TG: @coloristhk</a></p>
 									</div>
 								</div>
