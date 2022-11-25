@@ -288,6 +288,10 @@
 						<br>願望扭蛋機, dir: Leung Hung Wah
 						<br>How I Blew It, dir: Charlène Marrié
 						<br>春去人來, dir: 馬悅朝
+						<br><a href="https://www.youtube.com/watch?v=WiGE2SSBQbY">怪物大廈(Short)</a>
+						<br><a href="https://www.youtube.com/watch?v=CGrPF6wJJls">慢有癮力(Short)</a>
+						<br><a href="https://www.youtube.com/watch?v=c3aMKCUo_FE">卷柏(Short)</a>
+						<br><a href="https://www.youtube.com/watch?v=XpkPFOQOXzc">禁毒有嘻哈(Short)</a>
 						<br><br>2021
 						<br>黑水界, dir: Leung Hung Wah
 						<br><br>2020
