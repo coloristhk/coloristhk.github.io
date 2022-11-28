@@ -168,8 +168,8 @@
 						<h4>ABOUT ME</h4>
 						<h2>Hi, I'm Dennis</h2>
 						<p>I am a colorist, video technician, DCP Mastering Technician
-						Working in film post production for more than a decade now, I have dealt with many different situations and 
-						have learnt to adapt in this ever changing industry. Currently a member at Best & Original Limited in Hong Kong.
+						<br>Worked in film post production for more than a decade now, I have dealt with many different situations and 
+						have learnt to adapt in this ever changing industry. Currently working freelance in Hong Kong.
 						<br><br>Here's <a href="https://hk.linkedin.com/in/dennis-cheng-a58a94224">my linkedin page</a>.
 						</p>
 					</div>
@@ -194,7 +194,7 @@
 						<p>I believe color itself can be a strong story telling device. I do not shy away from using extreme color if necessary.
 						My main influences came from my love for oil painting and cinema, and very often it came from life itself.
 						I like to think that every frame is a painting, every frame is organic and breathing. And I like to bring back the analogue beauty in film.</p>
-						<p>I always tackle an image as a hold, without making too many masks which make the image artificial. I tend to see things a bit different from
+						<p>I always tackle an image as a whole, without making too many masks which make the image artificial. I tend to see things a bit different from
 						the average colorist. Always listening from different people, ranging from cinematographers, directors and even AV enthusiasts, always adapting to the industry's trend.</p>
 					</div>
 					<!--// About Me Vision -->
